@@ -1,64 +1,391 @@
 [
   {
-    "titulo": "title 1",
-    "fotos": ["https://i.ibb.co/2Nxpfmm/reposteria-1.jpg"],
-    "descripcion": "-",
-    "precio": 1563
-  },
-  {
-    "titulo": "title 2",
-    "fotos": ["https://i.ibb.co/cXSqw43/reposteria-2.jpg"],
-    "descripcion": "-",
-    "precio": 0
-  },
-  {
-    "titulo": "title 3",
-    "fotos": ["https://i.ibb.co/cQgwfcJ/reposteria-3.jpg"],
-    "descripcion": "-",
-    "precio": 0
-  },
-  {
-    "titulo": "title 4",
-    "fotos": ["https://i.ibb.co/4ZC7Pgm/reposteria-4.jpg"],
-    "descripcion": "-",
-    "precio": 0
-  },
-  {
-    "titulo": "title 5",
+    "titulo": "Chocotorta Choco",
     "fotos": [
-      "https://i.ibb.co/Ln9SBpf/reposteria-5.jpg",
-      "https://i.ibb.co/YLTKVzN/reposteria-6.jpg"
+      "https://i.ibb.co/k4MH1Dx/ke-reposteria-producto-chocotorta-choco-1.jpg",
+      "https://i.ibb.co/SwzD0F9/ke-reposteria-producto-chocotorta-choco-2.jpg"
     ],
-    "descripcion": "-",
-    "precio": 0
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "125",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Leche",
+        "cantidad": "1200",
+        "unidad": "mililitros"
+      },
+      {
+        "nombre": "Chocolate",
+        "cantidad": "220",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 1000
   },
   {
-    "titulo": "title 6",
+    "titulo": "Alfajores de maicena",
     "fotos": [
-      "https://i.ibb.co/PzYXHLX/reposteria-7.jpg",
-      "https://i.ibb.co/d6jgXjk/reposteria-8.jpg"
+      "https://i.ibb.co/6WdqYqZ/ke-reposteria-producto-alfajores-de-maicena.jpg"
     ],
-    "descripcion": "-",
-    "precio": 0
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "125",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Leche",
+        "cantidad": "1200",
+        "unidad": "mililitros"
+      },
+      {
+        "nombre": "Chocolate",
+        "cantidad": "200",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 1500
   },
   {
-    "titulo": "title 7",
+    "titulo": "Lasagna de Chocolate",
     "fotos": [
-      "https://i.ibb.co/KsdRsX6/reposteria-9.jpg",
-      "https://i.ibb.co/pw5fT3B/reposteria-10.jpg",
-      "https://i.ibb.co/wCmpTK6/reposteria-11.jpg"
+      "https://i.ibb.co/3zB0Qsb/ke-reposteria-producto-lasagna-de-chocolate.jpg"
     ],
-    "descripcion": "-",
-    "precio": 0
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "ganancia": 2350
   },
   {
-    "titulo": "title 8",
-    "fotos": [
-      "https://i.ibb.co/5RnyH2X/reposteria-12.jpg",
-      "https://i.ibb.co/sjVNm32/reposteria-13.jpg",
-      "https://i.ibb.co/g7srTn0/reposteria-14.jpg"
+    "titulo": "Brownie",
+    "fotos": ["https://i.ibb.co/MMZCBSR/ke-reposteria-producto-brownie.jpg"],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
     ],
-    "descripcion": "-",
-    "precio": 0
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 2900
+  },
+  {
+    "titulo": "Tiramisú",
+    "fotos": ["https://i.ibb.co/k8w40CN/ke-reposteria-producto-tiramisu.png"],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 2500
+  },
+  {
+    "titulo": "Magdalenas",
+    "fotos": [
+      "https://i.ibb.co/FJXzpRr/ke-reposteria-producto-magdalenas-1.jpg",
+      "https://i.ibb.co/805fHfr/ke-reposteria-producto-magdalenas-2.jpg",
+      "https://i.ibb.co/2YJmFRZ/ke-reposteria-producto-magdalenas-3.jpg",
+      "https://i.ibb.co/5TG3vhQ/ke-reposteria-producto-magdalenas-4.jpg"
+    ],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 1580
+  },
+  {
+    "titulo": "Rosquillas",
+    "fotos": ["https://i.ibb.co/j3rrfPz/ke-reposteria-producto-rosquillas.jpg"],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 6700
+  },
+  {
+    "titulo": "Berlinesa",
+    "fotos": ["https://i.ibb.co/D1Cr9kV/ke-reposteria-producto-berlinesa.jpg"],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 6800
+  },
+  {
+    "titulo": "Pastafrola",
+    "fotos": ["https://i.ibb.co/k10QZNL/ke-reposteria-producto-pastafrola.jpg"],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 4200
+  },
+  {
+    "titulo": "Tarta Pavlova",
+    "fotos": [
+      "https://i.ibb.co/WkYF8pb/ke-reposteria-producto-tarta-pavlova.jpg"
+    ],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 2500
+  },
+  {
+    "titulo": "Coulant de chocolate",
+    "fotos": [
+      "https://i.ibb.co/5nMJz5c/ke-reposteria-producto-coulant-de-chocolate.jpg"
+    ],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 6950
+  },
+  {
+    "titulo": "Cheesecake",
+    "fotos": ["https://i.ibb.co/0C0nGsL/ke-reposteria-producto-cheesecake.jpg"],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 12900
+  },
+  {
+    "titulo": "Panettone",
+    "fotos": ["https://i.ibb.co/rdtwBFg/ke-reposteria-producto-panetonne.jpg"],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 11050
+  },
+  {
+    "titulo": "Macarons",
+    "fotos": [
+      "https://i.ibb.co/Wx4jhQz/ke-reposteria-producto-macarons-1.jpg",
+      "https://i.ibb.co/gzTZ4CJ/ke-reposteria-producto-macarons-2.jpg"
+    ],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 4500
+  },
+  {
+    "titulo": "Gofres",
+    "fotos": ["https://i.ibb.co/gr5xRvh/ke-reposteria-producto-gofres.jpg"],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 3800
+  },
+  {
+    "titulo": "Tarta banoffee",
+    "fotos": [
+      "https://i.ibb.co/DDwmmDB/ke-reposteria-producto-tarta-banoffee.png"
+    ],
+    "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
+    "ingredientes": [
+      {
+        "nombre": "Harina 000",
+        "cantidad": "500",
+        "unidad": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "250",
+        "unidad": "gramos"
+      }
+    ],
+    "extra": {
+      "gas": 500,
+      "luz": 500
+    },
+    "ganancia": 5200
   }
 ]

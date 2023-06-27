@@ -1,0 +1,56 @@
+[
+  {
+    "nombre": "Harina 000",
+    "cantidad": "1000",
+    "unidad": "gramos",
+    "precio": 950
+  },
+  {
+    "nombre": "Manteca",
+    "cantidad": "200",
+    "unidad": "gramos",
+    "precio": 500
+  },
+  {
+    "nombre": "Huevos",
+    "cantidad": "30",
+    "unidad": "unidades",
+    "precio": 890
+  },
+  {
+    "nombre": "Leche",
+    "cantidad": "1000",
+    "unidad": "mililitros",
+    "precio": 550
+  },
+  {
+    "nombre": "Azucar",
+    "cantidad": "1000",
+    "unidad": "gramos",
+    "precio": 780
+  },
+  {
+    "nombre": "Aceite",
+    "cantidad": "1500",
+    "unidad": "mililitros",
+    "precio": 1900
+  },
+  {
+    "nombre": "Esencia de vainilla",
+    "cantidad": "150",
+    "unidad": "mililitros",
+    "precio": 400
+  },
+  {
+    "nombre": "Polvo de hornear",
+    "cantidad": "1000",
+    "unidad": "gramos",
+    "precio": 240
+  },
+  {
+    "nombre": "Chocolate",
+    "cantidad": "1000",
+    "unidad": "gramos",
+    "precio": 630
+  }
+]
