@@ -9,24 +9,28 @@
     "precio": 5560
   },
   {
-    "titulo": "Alfajor de D.L.",
-    "fotos": ["https://i.ibb.co/DrNmJ6c/ke-reposteria-promo-alfajor-de-dl.jpg"],
+    "titulo": "Alfajor de Chocolate",
+    "fotos": [
+      "https://i.ibb.co/HxyZpbV/ke-reposteria-promo-torta-oreo-1.jpg",
+      "https://i.ibb.co/NST80z4/ke-reposteria-promo-torta-oreo-2.jpg"
+    ],
     "descripcion": "Masa de galletita de chocolate intenso, relleno de dulce de leche y corazón de salsa de Frutos Rojos, baño de chocolate semiaamargo. ",
     "precio": 950
   },
   {
-    "titulo": "Chocotorta Choco",
+    "titulo": "Chocotorta",
     "fotos": [
-      "https://i.ibb.co/98Qdr2r/ke-reposteria-promo-chocotorta-choco-1.jpg",
-      "https://i.ibb.co/bNTYPvH/ke-reposteria-promo-chocotorta-choco-2.jpg",
-      "https://i.ibb.co/34LntDP/ke-reposteria-promo-chocotorta-choco-3.jpg",
-      "https://i.ibb.co/CJ486Lw/ke-reposteria-promo-chocotorta-choco-4.jpg"
+      "https://i.ibb.co/zsPhdQB/ke-reposteria-promo-chocotorta-1.jpg",
+      "https://i.ibb.co/MfMywpc/ke-reposteria-promo-chocotorta-2.jpg",
+      "https://i.ibb.co/nm4FQgP/ke-reposteria-promo-chocotorta-3.jpg",
+      "https://i.ibb.co/Z60R4DY/ke-reposteria-promo-chocotorta-4.jpg",
+      "https://i.ibb.co/s9jqnMv/ke-reposteria-promo-chocotorta-5.jpg"
     ],
     "descripcion": "Galletitas de chocolate, relleno de dulce de leche y queso crema, copos de crema de chocolate.\nPeso estimado 2,8 kg. 20 x 20 cm.\nRinde aprox 15-20 personas.",
     "precio": 8800
   },
   {
-    "titulo": "Oreo Vainilla Mediana",
+    "titulo": "Torta Oreo",
     "fotos": [
       "https://i.ibb.co/z6ZxGrX/ke-reposteria-promo-oreo-de-vainilla-mediana-1.jpg",
       "https://i.ibb.co/C2rB3fg/ke-reposteria-promo-oreo-de-vainilla-mediana-2.jpg"
@@ -37,8 +41,8 @@
   {
     "titulo": "Mini Tiramisu",
     "fotos": [
-      "https://i.ibb.co/jypXpNy/ke-reposteria-promo-tiramisu-1.jpg",
-      "https://i.ibb.co/xCJ3S6Z/ke-reposteria-promo-tiramisu-2.jpg"
+      "https://i.ibb.co/xCJ3S6Z/ke-reposteria-promo-tiramisu-2.jpg",
+      "https://i.ibb.co/jypXpNy/ke-reposteria-promo-tiramisu-1.jpg"
     ],
     "descripcion": "Base de vainillas y cafe, crema de cafe y cacao.\nMini torta de 10x10 cm",
     "precio": 1800
@@ -52,8 +56,8 @@
     "precio": 8200
   },
   {
-    "titulo": "Conito de D.L.",
-    "fotos": ["https://i.ibb.co/8jR01vH/ke-reposteria-promo-conito-de-dl.webp"],
+    "titulo": "Conitos",
+    "fotos": ["https://i.ibb.co/tmghCNx/ke-reposteria-promo-conitos.webp"],
     "descripcion": "Conito de dulce de leche. Base de galletita de chocolate intenso, relleno de dulce de leche y baño de chocolate semiaamargo ",
     "precio": 550
   },
